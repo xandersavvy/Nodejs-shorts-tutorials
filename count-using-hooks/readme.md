@@ -1,6 +1,6 @@
 ### use useState to declare the  count at 0 now add two button with onclick function which will decrement and increment the count using setCount 
 
-````javscript
+````javascript
 // @ts-check
 import React, { useState } from "react"; //impporting react
 
